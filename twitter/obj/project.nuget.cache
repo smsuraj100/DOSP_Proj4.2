@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2DWit9AvY6zrP2IcbT+f5bdhfNgW0j9CkGfzK0xmbxzAHBiq3D4w+jv/bqbUdKNv7WTUgPImgzr24IrECg0jcQ==",
+  "success": true,
+  "projectFilePath": "/Users/suraj/Projects/Proj4.2/twitter/twitter.fsproj",
+  "expectedPackageFiles": [
+    "/Users/suraj/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512",
+    "/Users/suraj/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/suraj/.nuget/packages/suave/2.6.1/suave.2.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
